@@ -25,9 +25,3 @@ function runArrays() {
     console.log(myArr)
     //myArr.unshift("Ajax") //Replaces last element with first element
 }
-
-
-
-
-
-module.exports = { runArrays }
