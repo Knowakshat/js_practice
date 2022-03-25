@@ -1,3 +1,4 @@
+
 //Ways to print in JavaScript
 //alert("Hey there! Go Study Stupid!")
 document.write("This is a doccument.write statement")
@@ -58,14 +59,8 @@ console.log(n)
 // 2. Reference Data types: Arrays and Objects
 
 // ARRAY
-var arr = [1, 2, 3, 4, 5]
-console.log(arr)
-console.log(arr[1])
-var arrstr = [1, 2, 'Raju', 3, 4, 5]
-console.log(arrstr)
-console.log(arrstr[2])
-console.log(arrstr[3])
-
+const runArrays = require("./array")
+runArrays()
 //OPERATORS IN JAVA SCRIPT
 
 var x = 1
