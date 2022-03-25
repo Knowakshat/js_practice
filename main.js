@@ -59,9 +59,9 @@ console.log(n)
 // 2. Reference Data types: Arrays and Objects
 
 // ARRAY
-const runArrays = require("./array")
-runArrays()
-//OPERATORS IN JAVA SCRIPT
+// Import and Require doesn't work locally
+// Need to import the files using HTML script tags
+// OPERATORS IN JAVA SCRIPT
 
 var x = 1
 var y = 2
